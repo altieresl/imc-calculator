@@ -11,6 +11,7 @@ Entre na pasta do projeto e execute o comando abaixo para instalar as dependênc
 `npm install`
 
 Caso você não possua o CLI do Ionic instalado, execute o comando abaixo:
+
 `npm install -g @ionic/cli`
 
 Para abrir a aplicação, execute o comando:
